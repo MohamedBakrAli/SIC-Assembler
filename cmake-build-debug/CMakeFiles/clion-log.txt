@@ -1,0 +1,4 @@
+/media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/Workspaces/CLionProfWS/SIC_Assembler_CLion
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/Workspaces/CLionProfWS/SIC_Assembler_CLion/cmake-build-debug

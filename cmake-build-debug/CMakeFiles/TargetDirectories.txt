@@ -1,0 +1,3 @@
+/media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/Workspaces/CLionProfWS/SIC_Assembler_CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/Workspaces/CLionProfWS/SIC_Assembler_CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ahmed/50D857C0D857A350/JETBrainsFullStudentPack/Workspaces/CLionProfWS/SIC_Assembler_CLion/cmake-build-debug/CMakeFiles/SIC_xe_Assembler.dir
